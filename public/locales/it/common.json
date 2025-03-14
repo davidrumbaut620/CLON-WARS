@@ -1,0 +1,25 @@
+{
+  "navigation": {
+    "social": "Social Media",
+    "streaming": "Streaming",
+    "productivity": "Produttività",
+    "about": "Chi siamo"
+  },
+  "hero": {
+    "title": "Collezione di Cloni Open Source",
+    "description": "Esplora {count}+ cloni e alternative open source di siti popolari. Perfetto per imparare e trovare ispirazione!",
+    "stats": {
+      "projects": "Progetti Totali",
+      "tutorials": "Con Tutorial",
+      "alternatives": "Alternative",
+      "categories": "Categorie"
+    }
+  },
+  "search": {
+    "placeholder": "Cerca progetti..."
+  },
+  "tabs": {
+    "tutorials": "Con Tutorial",
+    "clones": "Cloni e Alternative"
+  }
+}

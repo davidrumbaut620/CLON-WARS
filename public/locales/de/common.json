@@ -1,0 +1,25 @@
+{
+  "navigation": {
+    "social": "Soziale Medien",
+    "streaming": "Streaming",
+    "productivity": "Produktivität",
+    "about": "Über uns"
+  },
+  "hero": {
+    "title": "Open Source Klone Sammlung",
+    "description": "Entdecke {count}+ Open-Source-Klone und Alternativen beliebter Websites. Perfekt zum Lernen und zur Inspiration!",
+    "stats": {
+      "projects": "Gesamtprojekte",
+      "tutorials": "Mit Tutorials",
+      "alternatives": "Alternativen",
+      "categories": "Kategorien"
+    }
+  },
+  "search": {
+    "placeholder": "Projekte suchen..."
+  },
+  "tabs": {
+    "tutorials": "Mit Tutorials",
+    "clones": "Klone & Alternativen"
+  }
+}
